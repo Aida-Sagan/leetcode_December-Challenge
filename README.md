@@ -1,5 +1,5 @@
 # leetcode_December-Challenge
-																						**#TASK 617. Merge Two Binary Trees**
+																			**#TASK 617. Merge Two Binary Trees**
 
 You are given two binary trees root1 and root2.
 
@@ -18,7 +18,7 @@ Output: [2,2]
 
 
 
-																						**#TASK 116 Populating Next Right Pointers in Each Node**
+																			**#TASK 116 Populating Next Right Pointers in Each Node**
 You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
 
 struct Node {
